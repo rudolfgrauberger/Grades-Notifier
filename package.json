@@ -1,0 +1,22 @@
+{
+  "name": "grades-notifier-psso-th-koeln",
+  "version": "0.0.1",
+  "description": "Prüft ob es eine Änderung an dem Notenspiegel im PSSO gibt und versendet dann eine Benachrichtigung per E-Mail.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "psso",
+    "grade",
+    "notify",
+    "email"
+  ],
+  "author": "Rudolf Grauberger",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
