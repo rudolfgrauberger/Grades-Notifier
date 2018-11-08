@@ -4,3 +4,7 @@ Dieses Tool/Script prüft ob es eine Änderung an dem Notenspiegel im PSSO der T
 Mein Ziel ist es, dass jeder Student der TH Köln dieses Script nutzen kann. Da ich kein Fan von der Weitergabe von Zugangsdaten bin, werde ich hier auch eine Anleitung schreiben, wie man dieses Script selber laufen lassen kann.
 
 Ob ihr es dann selber hostet oder es bei einem Anbieter macht (und damit eure Zugangsdaten zu PSSO weitergibt), ist dann euch selbst überlassen.
+
+## Build Status
+
+[![Build Status](https://travis-ci.org/rudolfgrauberger/Grades-Notifier.svg?branch=master)](https://travis-ci.org/rudolfgrauberger/Grades-Notifier)
