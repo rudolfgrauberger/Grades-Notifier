@@ -4,7 +4,7 @@
   "description": "Prüft ob es eine Änderung an dem Notenspiegel im PSSO gibt und versendet dann eine Benachrichtigung per E-Mail.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha **/*.test.js"
   },
   "keywords": [
     "psso",
@@ -17,6 +17,9 @@
   "devDependencies": {
     "eslint": "^5.8.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint-plugin-import": "^2.14.0",
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
   }
 }
